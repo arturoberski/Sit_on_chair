@@ -1,5 +1,5 @@
 # Sit_on_chair
-Sit on chair to prosty projekt, oparty w całości na HTML, CSS i Javascript. Projekt jest pojedynczą stroną. Posiada on następujące funkcjonalności:
+'Sit on chair' to prosty projekt, oparty w całości na HTML, CSS i Javascript. Projekt jest pojedynczą stroną. Posiada on następujące funkcjonalności:
 - w sekcji 'header' znajduje się nawigacja, po najechaniu na jej elementy wyświetlane są odpowiednie drop-down-menu's,
 - w sekcji 'section1' znajduje się slider oraz przycisk,
 - w sekcji 'section2' znajdują sie trzy bloki, z czego dwa zmieniają się po najechaniu na nie kursorem,
