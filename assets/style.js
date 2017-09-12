@@ -76,7 +76,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
-  
   /*Slider*/
 
   var next = document.getElementById("next");
@@ -106,7 +105,6 @@ document.addEventListener("DOMContentLoaded", function() {
     slideIndex--;
     switchImage(slideIndex);
   });
-
 
   /***Kalkulator***/
 
