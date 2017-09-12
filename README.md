@@ -1,15 +1,15 @@
 # Sit_on_chair
 
-Link do projektu: https://arturoberski.github.io/Sit_on_chair/
+Link to project: https://arturoberski.github.io/Sit_on_chair/
 
-'Sit on chair' to prosty projekt, oparty w całości na HTML, CSS i Javascript. Projekt jest pojedynczą stroną. Posiada on następujące funkcjonalności:
-- w sekcji 'header' znajduje się nawigacja, po najechaniu na jej elementy wyświetlane są odpowiednie drop-down-menu's,
-- w sekcji 'section1' znajduje się slider oraz przycisk,
-- w sekcji 'section2' znajdują sie trzy bloki, z czego dwa zmieniają się po najechaniu na nie kursorem,
-- w sekcji 'section3' znajdują się trzy bloki z przyciskami, które zmieniają swój wygląd po najechaniu na nie kursorem,
-- w sekcji 'application' znajduje się trzy rozwijane listy drop-down, z których można wybrać odpowiednie opcje. Wybranie danej opcji powoduje dodanie jej do bloku podsumowanie oraz generuje całkowitą kwotę,
-- w sekcji 'section 4' znajduje się formularz kontaktowy.
+'Sit on chair' is a simple one-page project, entirely based on HTML, CSS and Javascript. It has the following functionalities:
+- in the 'header' section there is navigation, when you hover over its items, the corresponding drop-down menu shows up,
+- in 'section1' there is a slider and a button,
+- in 'section2' there are three blocks, two of which change their appearance when you hover over them,
+- in 'section3' there are three blocks with buttons that change their appearance when you hover over them,
+- in 'application' section there are three drop-down lists from which you can select some options. Choosing an option adds it to the summary block and generates the total amount,
+- in 'section 4' there is a contact form.
 
-Przy pomocy reguł @media zapewniono odpowiednie wyświetlanie się strony dla trzech różych szerokości ekranów.
+In poject there are used some @media rules, providing appropriate view for different screen widths.
 
 
