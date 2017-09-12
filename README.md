@@ -10,6 +10,6 @@ Link to project: https://arturoberski.github.io/Sit_on_chair/
 - in 'application' section there are three drop-down lists from which you can select some options. Choosing an option adds it to the summary block and generates the total amount,
 - in 'section 4' there is a contact form.
 
-In poject there are used some @media rules, providing appropriate view for different screen widths.
+In poject there are used some @media rules, providing appropriate display for different screen widths.
 
 
